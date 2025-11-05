@@ -1,2 +1,3 @@
 # Cell-detection
-Fiji and Matlab script to detect cells in images
+Fiji script forms ROI and returns table with these ROIs
+MATLAB script uses these tables and removes cells counted in multiple z-planes
